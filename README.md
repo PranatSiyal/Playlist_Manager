@@ -4,3 +4,6 @@
 # edge cases
 1. can cannot play the same song in next 2 hrs or after 100 tracks
 2. 
+
+# techstack
+Nextjs, tailwind, postgres, prisma
