@@ -8,3 +8,4 @@ add new varitaions and make it usable, a possible idea could be to have voice re
 # techstack
 Nextjs, tailwind, postgres, prisma,
 
+# ALT AI agent to handle this 
